@@ -1,4 +1,4 @@
-module github.com/sven/go-sqlcipher/v1
+module github.com/StarException/go-sqlcipher
 
 go 1.12
 
